@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/secretos-en-tu-piel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Secretos en tu piel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/secretos-en-tu-piel/) |
+| **Get License** | [Secure Licensing Rights for Secretos en tu piel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/secretos-en-tu-piel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/3900)
 
 ---
 
