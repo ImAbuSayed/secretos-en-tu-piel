@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Secretos en tu piel
+
+This log tracks the cryptographic history and versioning for the song **Secretos en tu piel** (secretos-en-tu-piel).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-21T03:51:46.778949 | `v1` | `fadf5459bdcdfe6f757168e57e750e1fbe58bb4563675fd17c9d4d444409f1ff` | `f1c185cde740da1db7546441f68e464406fe67d947da2a8b855351b73dc9decd` | `2026-06-21_secretos-en-tu-piel-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
